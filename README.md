@@ -9,6 +9,8 @@ Test redis: run <code>redis-server.exe</code><br/>
 
 Or just donload the redis latest msi build from https://github.com/MicrosoftArchive/redis/releases and install it <br/>
 
+Download and install redis react UI application from https://github.com/ServiceStackApps/RedisReact to see redis data visually <br/>
+
 Clone this repo and run.
  
 
