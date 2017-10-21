@@ -1,0 +1,8 @@
+c:\users\sabbir\documents\visual studio 2017\Projects\RadisTest\RadisTest\bin\Debug\RadisTest.exe.config
+c:\users\sabbir\documents\visual studio 2017\Projects\RadisTest\RadisTest\bin\Debug\RadisTest.exe
+c:\users\sabbir\documents\visual studio 2017\Projects\RadisTest\RadisTest\bin\Debug\RadisTest.pdb
+c:\users\sabbir\documents\visual studio 2017\Projects\RadisTest\RadisTest\bin\Debug\StackExchange.Redis.dll
+c:\users\sabbir\documents\visual studio 2017\Projects\RadisTest\RadisTest\bin\Debug\StackExchange.Redis.xml
+c:\users\sabbir\documents\visual studio 2017\Projects\RadisTest\RadisTest\obj\Debug\RadisTest.csprojResolveAssemblyReference.cache
+c:\users\sabbir\documents\visual studio 2017\Projects\RadisTest\RadisTest\obj\Debug\RadisTest.exe
+c:\users\sabbir\documents\visual studio 2017\Projects\RadisTest\RadisTest\obj\Debug\RadisTest.pdb
